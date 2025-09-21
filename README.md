@@ -1,16 +1,19 @@
 ## Hi there 👋
-
-<!--
-**shejuleknath2003/shejuleknath2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm Eknath, a passionate Web Developer and Software Engineering student.  
+I love building projects that solve real-world problems and continuously learning new technologies.
 
 - 🔭 I’m currently working on ...
+- I’m learning programming languages and frameworks with libraries.
+- Bulding new projects to develop my coding skills.
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web Development (HTML, CSS, Javascript, React-js, Angular-js).
+- Database (SQL).
+- Backend Development (Java).
+- 🎯 Goals:  
+- Contribute to open-source projects.
+- To become proficient in full-stack development.   
+- Improve problem-solving with DSA.
+
+📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/eknath-shejul) 
+[Email](shejuleknath03@gmail.com)
