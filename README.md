@@ -14,8 +14,8 @@
 - Contribute to open-source projects.
 - To become proficient in full-stack development.   
 - Improve problem-solving with DSA.
-- 📫 How to reach me eknathshejul24@gmail.com
-- 📄 Connect with me on linkedin.com/in/eknath-shejul-8bb55b31a
+- - 📫 How to reach me eknathshejul24@gmail.com
+- 📄 Connect with me on linkedin.com/in/eknath-shejul-8bb55b31a 
 
 ---
 
@@ -41,7 +41,7 @@
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a> 
+</a> -->
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a>
