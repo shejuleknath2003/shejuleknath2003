@@ -14,7 +14,7 @@
 - Contribute to open-source projects.
 - To become proficient in full-stack development.   
 - Improve problem-solving with DSA.
-- - 📫 How to reach me eknathshejul24@gmail.com
+- 📫 How to reach me eknathshejul24@gmail.com
 - 📄 Connect with me on linkedin.com/in/eknath-shejul-8bb55b31a 
 
 ---
