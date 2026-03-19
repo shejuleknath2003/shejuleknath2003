@@ -3,21 +3,19 @@
 
 ---
 
-- 🔭 I’m currently working on ...
-- I’m learning programming languages and frameworks with libraries.
-- Bulding new projects to develop my coding skills.
-- 🌱 I’m currently learning ...
-- Web Development (HTML, CSS, Javascript, React-js, Angular-js).
-- Database (SQL).
-- Backend Development (Java).
+- 🔭 I’m currently working on building a modern full-stack application.
+- I’m learning new programming languages and frameworks.
+- Building new projects to develop my coding skills.
+- 🌱 I’m currently learning:
+  - Advanced Web Development (React.js, Next.js, and Modern CSS).
+  - Database Management (SQL & NoSQL).
+  - Backend Development (Spring Boot, Java).
 - 🎯 Goals:  
-- Contribute to open-source projects.
-- To become proficient in full-stack development.   
-- Improve problem-solving with DSA.
-- 📫 How to reach me eknathshejul24@gmail.com
-- 📄 Connect with me on linkedin.com/in/eknath-shejul-8bb55b31a 
-
-<img align="right" alt="coding" width="500px" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
+  - Contribute to open-source projects.
+  - Become a proficient full-stack developer.   
+  - Improve problem-solving with DSA.
+- 📫 How to reach me: [eknathshejul24@gmail.com](mailto:eknathshejul24@gmail.com)
+- 📄 Connect with me on [LinkedIn](https://linkedin.com/in/eknath-shejul-8bb55b31a)
 
 ---
 
@@ -43,7 +41,7 @@
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a> -->
+</a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a>
@@ -59,6 +57,9 @@
 </a>
 </p>
 
+<img align="right" alt="coding" width="500px" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
+
+---
 ---
 
 <h3 align="left">Projects:</h3>
