@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eknath Shejul</h1>
-<h3 align="center">A passionate Java Full Stack Developer & Embedded Systems Enthusiast from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 ---
 
@@ -7,8 +7,8 @@
 - I’m learning new programming languages and frameworks.
 - Building new projects to develop my coding skills.
 - 🌱 I’m currently learning:
-  - Advanced Web Development (React.js, Next.js, and Modern CSS).
-  - Database Management (SQL & NoSQL).
+  - Advanced Web Development (React.js, Next.js).
+  - Database Management (SQL & PostgreSQL).
   - Backend Development (Spring Boot, Java).
 - 🎯 Goals:  
   - Contribute to open-source projects.
