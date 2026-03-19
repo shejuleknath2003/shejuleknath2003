@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Java Full Stack Developer & Embedded Systems Enthusiast from India</h3>
 
 ---
-<img align="right" alt="coding" width="500px" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
----
+
 - 🔭 I’m currently working on ...
 - I’m learning programming languages and frameworks with libraries.
 - Bulding new projects to develop my coding skills.
@@ -18,6 +17,8 @@
 - 📫 How to reach me eknathshejul24@gmail.com
 - 📄 Connect with me on linkedin.com/in/eknath-shejul-8bb55b31a 
 
+---
+<img align="right" alt="coding" width="500px" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 ---
 
 <h3 align="left">Languages and Tools:</h3>
