@@ -17,10 +17,8 @@
 - 📫 How to reach me eknathshejul24@gmail.com
 - 📄 Connect with me on linkedin.com/in/eknath-shejul-8bb55b31a 
 
----
-<h2>
 <img align="right" alt="coding" width="500px" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
-  </h2>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
