@@ -67,7 +67,9 @@
 - 🛒 **Amazon Clone Website** – Built with HTML, CSS, JavaScript, and Bootstrap  
 - 🍲 **Food Recipe Website** – Real-time search, ingredient adjustment & bookmarks  
 - 🏍 **Wireless Safety Control for Two-Wheelers** – IoT-based accident prevention system  
-- 🎬 **Media Clone App** – A full-featured media streaming clone built with **React, TypeScript, and CSS**  
+- 🎬 **Media Clone App** – A full-featured media streaming clone built with **React, TypeScript, and CSS**
+- 🎬 **Tours and Travels management system** – Developed a web-based Tours and Travels Management System to streamline travel booking, tour package
+management, and customer services  
 
 ---
 
