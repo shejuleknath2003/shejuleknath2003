@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on building a modern full-stack application.
 - I’m learning new programming languages and frameworks.
 - Building new projects to develop my coding skills.
-- 🌱 I’m currently learning:
+- 🌱 I have knowledge about:
   - Advanced Web Development (React.js, Next.js).
   - Database Management (SQL & PostgreSQL).
   - Backend Development (Spring Boot, Java).
